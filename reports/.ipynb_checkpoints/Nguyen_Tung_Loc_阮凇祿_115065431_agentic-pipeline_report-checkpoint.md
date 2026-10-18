@@ -1,4 +1,6 @@
 # Agentic Pipeline Report: 20 Newsgroups, four categories
+Full Name: Nguyen Tung Loc 阮凇祿
+Student ID: 1150650431
 
 ## 1. What I did
 
