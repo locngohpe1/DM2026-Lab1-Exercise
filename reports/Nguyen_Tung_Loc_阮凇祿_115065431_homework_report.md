@@ -1,4 +1,4 @@
-# Homework Report: Reddit Stock Sentiment
+# Homework Report
 Full Name: Nguyen Tung Loc 阮凇祿
 Student ID: 1150650431
 
